@@ -1,2 +1,2 @@
-# effects-C-
+# effects-C++
 effects for c++ compilator
